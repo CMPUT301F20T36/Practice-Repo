@@ -1,4 +1,5 @@
 package com.example.practice_ropo;
 
-public class Square {
+public class Square extends Shape {
+
 }
