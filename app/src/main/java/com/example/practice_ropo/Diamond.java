@@ -1,4 +1,4 @@
 package com.example.practice_ropo;
 
-public class Diamond {
+public class Diamond extends Shape{
 }
